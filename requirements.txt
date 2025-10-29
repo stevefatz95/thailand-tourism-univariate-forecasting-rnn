@@ -1,0 +1,7 @@
+pandas==2.2.3
+numpy==2.0.1
+matplotlib==3.10.0
+statsmodels==0.14.4
+tensorflow==2.19.0
+statsforecast==2.0.1
+utilsforecast==0.2.12
