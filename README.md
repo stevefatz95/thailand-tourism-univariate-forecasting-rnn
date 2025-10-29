@@ -46,5 +46,5 @@ Open `reports/thailand-tourism-univariate-forecasting-rnn.html` in a web browser
 
 If you use or cite this work, please reference:
 
-[Grassi, S. (2025). *Forecasting of Inbound Tourist Demand in Thailand: Assessing Recurrent Neural Networks*. ResearchGate. DOI: 10.13140/RG.2.2.19998.80967] 
+Grassi, S. (2025). *Forecasting of Inbound Tourist Demand in Thailand: Assessing Recurrent Neural Networks*. ResearchGate. DOI: [10.13140/RG.2.2.19998.80967] 
 (https://www.researchgate.net/publication/397020727_Forecasting_of_Inbound_Tourist_Demand_in_Thailand_Assessing_Recurrent_Neural_Networks)
