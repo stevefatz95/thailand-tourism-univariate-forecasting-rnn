@@ -21,6 +21,7 @@ All datasets are stored in the `data` folder:
 
 - `notebooks/thailand-tourism-univariate-forecasting-rnn.ipynb` – Jupyter notebook.
 - `reports/thailand-tourism-univariate-forecasting-rnn.html` – Static HTML report.
+- `figures` - Figure used in the report.
 - `requirements.txt` – Python dependencies for replicating the analysis.
 - `LICENSE.md` – Project licensing information.
 
